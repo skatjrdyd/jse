@@ -1,7 +1,7 @@
 package cmm04.ary;
 
-public class No06_GuGuDanExamples {
-	public static void main(String[] args) {
+public class GuGuDanVO {
+	public void calc(){
 		int dan = 2;
 		int i = 1;
 		
