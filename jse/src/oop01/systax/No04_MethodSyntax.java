@@ -10,7 +10,7 @@ package oop01.systax;
  1) Method는 리턴값이 있어야 하는데 없으면 void 라고 기술한다.
  2) Method는 함수 이름 다음에 괄호()가 있어야 한다.
  3) Method는 필요한 경우 메소드 이름(매개인자){}를 둘 수 있다.
-    - 매개인자를 오라클에서는 aprameter라고 부른다.  
+    - 매개인자를 오라클에서는 parameter라고 부른다.  
  * */
 /*
  Method 문법 Syntax
