@@ -21,5 +21,7 @@ public class CardVO {
 		System.out.println("당신 카드의 무늬는 " + kind + "이며" 
 				            + " 당신 카드의 숫자는 " + number + "이다");
 	}
-	
+	public void setKind(String kind){
+		this.kind = kind;
+	}
 }
