@@ -28,4 +28,5 @@ public class PayA {
  2. 상속(inhabitance)
  3. 추상화(implement)
  4. 다형성(polymorphism) 
+ 
  * */
